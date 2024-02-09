@@ -15,6 +15,11 @@ In addition, it takes into account operations for applying different filters on 
 - low-pass
 - high-pass.
 
+Technologies used in the project: **Python** with libraries:
+- numpy - a library for scientific calculations, operations on multidimensional arrays and matrices
+- matplotlib - a module for creating graphs
+- PIL - a module for image handling
+
 Erosion picture:
 
 ![1](https://github.com/weronikaabednarz/Evolution-Dilatation-Erosion/blob/main/2_erozja.bmp)
