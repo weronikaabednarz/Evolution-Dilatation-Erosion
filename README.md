@@ -8,7 +8,7 @@ The projects included operations:
 - calculation of the convolution of a function with a mask of radius 1,
 - calculation of the convolution of a function with a mask of radius r.
 
-It also includes the possibility to change the neighbourhood radius for morphological operations, loading predefined masks/filters with fixed =1/different radius from a file.
+It also includes the possibility to change the neighbourhood radius for morphological operations, loading predefined masks/filters with radius = 1 or different radius from a file.
 
 In addition, it takes into account operations for applying different filters on the bitmap:
 - Gauss,
